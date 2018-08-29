@@ -1,0 +1,14 @@
+Jogo de calculo de operações: soma, subtração, multiplicação e divisão.
+Com escolha de niveis: fácil, médio e dificil
+
+Responda 10 questões aleatórias e ao final você terá o resultado de quantas acertou e errou.
+
+Obrigado por jogar meu jogo.
+
+Abraços
+
+Utilizei:
+
+PyCharm Community Edition: https://www.jetbrains.com/pycharm/
+Versão Python 3.7: https://www.python.org/ 
+   
